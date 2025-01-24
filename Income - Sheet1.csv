@@ -1,0 +1,18 @@
+Age,Marital status,Income,Gender,Expense_per_month
+33,Married,23000,Male,22000
+-2,Unmarried,50000,Male,42000
+45,Unmarried,40000,Male,20000
+20,Null,200,Female,220
+15,Unmarried,unknown,Male,20000
+35,Married,-2222222,Male,#####
+23,Married,40000,Female,40000
+50,nan,1000000,Male,50000
+75,Married,0,Female,2000
+0,Married,50000,Female,30000
+NULL,NULL,,NULL,NULL
+10000,Married,20000,Male,20000
+29,Unmarried,43500,Female,20000
+46,Married,46000,Male,30000
+79,Married,0,Male,2000
+52,Married,2300000,Female,100000
+18,Unmarried,25000,Male,1500
